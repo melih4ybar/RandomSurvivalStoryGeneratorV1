@@ -7,6 +7,7 @@ namespace MyProgram
         static void Main()
         {
 
+
             string[] biyomlar = { "Yağmur Ormanında", "Çölde", "Bataklıkta", "Issız Adada" };
 
             string[] orman_yiyecekler = { "avladığın hayvanların eti", "küçük böcekler", "yabani meyveler", "yenebilir otlar" };
